@@ -1,0 +1,5 @@
+.env
+test_toolkit.ipynb
+valeurs_pour_test.csv
+__pycache__
+env_toolkit
